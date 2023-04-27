@@ -38,8 +38,7 @@ fisher=function(xf){
 }
 
 #Generate the data, using 2 gaussians
-#read.csv("C:\\Users\\Admin\\Downloads\\driver-data.csv")
-load(file="C:\\Users\\47406\\Downloads\\practice_04\\practice_04\\2gaussiandata.RData")
+#x= 'generate dataset using 2 gaussians'
 plot(x[,1], x[,2])
 labels=x[,3]
 x=x[,1:2]
