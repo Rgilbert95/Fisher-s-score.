@@ -1,4 +1,4 @@
-# Fisher-s-score.
+# Fisher-score.
 My implementation of Fisher’s score in R
 
 In this exercise, 2 main functions have been implemented,
